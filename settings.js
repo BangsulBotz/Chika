@@ -33,8 +33,8 @@ global.footer = 'BangsulStart' //ubah jadi nama mu, note tanda ' gausah di hapus
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
+global.youtube = 'https://youtube.com/channel/UCIA1wdc9j9z6fFicPpjP7og'
+global.ig = 'https://instagram.com/x_mhd_ghofar95_x'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
 global.email = 'riychdwaynee@gmail.com'
