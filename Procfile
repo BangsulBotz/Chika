@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm imagemagick && npm start
+worker : npm i ffmpeg && npm i imagemagick && npm start
